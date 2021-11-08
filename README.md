@@ -1,2 +1,2 @@
 # flow-chart
-for my flow charts
+I will be using this to plan my code sometimes
